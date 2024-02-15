@@ -1,0 +1,11 @@
+/* style.css */
+
+/* Define a class for larger font size */
+.large-text {
+  font-size: 20px; /* You can adjust the font size as needed */
+}
+
+/* Define a class for centering text */
+.center-text {
+  text-align: center;
+}
